@@ -4,11 +4,13 @@ https://github.com/vinfamy/LifePlay
 
 
 ### 1- rk_IceCreamShop  : 
-Add options to buy/eat ice cream desserts at different places around the city.
+Add options to buy/eat ice cream desserts at different places around the city.  
+5 types of ice cream desserts.  
+Contain 3 scenes.  
 
 
 ### Module requirements
-None
+At least LifePlay 3.18
 
 
 ### Module conflict
@@ -24,7 +26,7 @@ c:\..\LifePlay\Content\Modules\rk_IceCreamShop
 
 NOT
 
-c:\..\LifePlay\Content\Modules\rk_IceCreamShop\rk_IceCreamShop
+c:\..\LifePlay\Content\Modules\RK-Ice-Cream-Shop\rk_IceCreamShop
 
 After the mod have been installed, make sure the mod is active in the Mod Manager. 
 
