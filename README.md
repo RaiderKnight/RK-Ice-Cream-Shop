@@ -2,7 +2,7 @@
 <p>Module for the game LifePlay</p>
 <p>https://github.com/vinfamy/LifePlay</p>
 <br>
-<h3>rk_IceCreamShop  version(1.0):</h3> 
+<h3>rk_IceCreamShop :</h3> 
 <p>Add options to buy/eat ice cream desserts at different places around the city.  </p>
 <p>5 types of ice cream desserts.</p>  
 <p>Contain 4 scenes.  </p>
